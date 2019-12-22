@@ -1,4 +1,4 @@
-披萨工艺的中国汉语文件！
+披萨工艺的中国的汉语文件！
 
 
 //CreativeTab
@@ -6,10 +6,10 @@ itemGroup.pizzacrafttab=披萨
 
 //Effects
 effect.eye_irritation=流泪
-potion.effect.eye_irritation=流泪药水
-splash_potion.effect.eye_irritation=喷溅型流泪药水
-tipped_arrow.effect.eye_irritation=流泪之箭
-lingering_potion.effect.eye_irritation=滞留型流泪药水
+potion.effect.eye_irritation=催泪药水
+splash_potion.effect.eye_irritation=喷溅型催泪药水
+tipped_arrow.effect.eye_irritation=绝情催泪箭
+lingering_potion.effect.eye_irritation=滞留型催泪药水
 
 //Entities
 entity.Villager.pizza_chef=披萨制作师
@@ -45,7 +45,7 @@ item.cucumber_slice.name=黄瓜切片
 item.cheese.name=奶酪
 item.flour.name=面粉
 item.flour_corn.name=玉米粉
-item.milk_bottle.name=新鲜的瓶装牛奶
+item.milk_bottle.name=瓶装牛奶
 item.olive_oil.name=橄榄油
 item.pizza_dough.name=披萨面团
 item.onion.name=洋葱
